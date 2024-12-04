@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hyxicn
-- 👀 I’m interested in complexy science especially in social economics system.
+- 👀 I’m interested in computational social science.
 - 🌱 I’m currently a PhD student in SMU.
-- 💞️ I’m looking to collaborate on economics research.
+- 💞️ I’m looking to collaborate on research.
 - 📫 hyxicn@gmail.com
 
 <!---
