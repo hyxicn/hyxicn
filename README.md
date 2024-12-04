@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hyxicn
 - 👀 I’m interested in computational social science.
 - 🌱 I’m currently a PhD student in SMU.
-- 💞️ I’m looking to collaborate on research.
+- 💞️ I’m looking to collaborate on cross displinary research.
 - 📫 hyxicn@gmail.com
 
 <!---
